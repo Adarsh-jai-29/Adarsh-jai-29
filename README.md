@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Adarsh Jaiswal </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-end+Developer;MERN+Stack+Enthusiast;Fast+Learner+New+Thing+Explorer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-end+Developer;MERN+Stack+Enthusiast;Fast+Learner;New+Thing+Explorer" alt="Typing SVG" /></a>
 </p>
 
 ## 💫 About Me
@@ -48,9 +48,6 @@ Let's collaborate on exciting projects and contribute to the open-source communi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="Socket.io logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="35" alt="Appwrite logo" />
 
   <br/>
   
@@ -103,4 +100,5 @@ Let's collaborate on exciting projects and contribute to the open-source communi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
+ ## 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
