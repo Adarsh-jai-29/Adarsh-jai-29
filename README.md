@@ -52,8 +52,6 @@ Let's collaborate on exciting projects and contribute to the open-source communi
   <br/>
   
   <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub logo" />
@@ -97,8 +95,8 @@ Let's collaborate on exciting projects and contribute to the open-source communi
 </div>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
- ## 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+ ## The End
+
