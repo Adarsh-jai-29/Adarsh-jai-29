@@ -64,7 +64,7 @@ Let's collaborate on exciting projects and contribute to the open-source communi
 <h2 align="start">📫 Let's Connect</h2>
 
 <div align="start">
-  <a href="https:/www.linkedin.com/in/adarsh-jai-402365286" target="_blank">
+  <a href='linkedin.com/in/adarsh-jais-402365286' target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:email@adarshjai29.com" target="_blank">
