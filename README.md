@@ -56,6 +56,8 @@ Let's collaborate on exciting projects and contribute to the open-source communi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo" />
 </div>
 
@@ -64,6 +66,7 @@ Let's collaborate on exciting projects and contribute to the open-source communi
 <h2 align="start">📫 Let's Connect</h2>
 
 <div align="start">
+  
   <a href='linkedin.com/in/adarsh-jais-402365286' target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
